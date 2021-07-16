@@ -15,6 +15,8 @@ const light = new THREE.DirectionalLight(0xffffff, 1);
 light.position.set(2, 2, 1);
 camera.add(light);
 
+//fjkenefkmekmefmefkefkkkkmmmmmmdk lol
+
 const shape = generateVee(230);
 console.log(shape);
 
